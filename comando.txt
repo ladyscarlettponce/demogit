@@ -1,2 +1,9 @@
-git init ...inicializa una carpeta
-ygfg
+1.git init ...inicializa una carpeta
+
+2. git add .
+
+3.realizar un commit ..git commit -m "primera subida"
+
+4. git push -u origin master
+
+berificar q se encuentre en el git
