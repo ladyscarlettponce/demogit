@@ -1,3 +1,6 @@
+
+PASOS DE GIT
+
 1.git init ...inicializa una carpeta
 
 2. git add .
