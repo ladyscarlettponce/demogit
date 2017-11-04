@@ -10,3 +10,5 @@ PASOS DE GIT
 4. git push -u origin master
 
 berificar q se encuentre en el git
+
+//Modificando Comando
